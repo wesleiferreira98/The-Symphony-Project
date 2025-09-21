@@ -1,0 +1,17 @@
+# --- Simulador ---
+edge-sim-py @ git+https://github.com/EdgeSimPy/EdgeSimPy.git
+networkx==3.4.2
+msgpack==1.1.1
+
+# --- Dados ---
+numpy==1.26.4  # Versão compatível com Python 3.12 e outras dependências
+pandas==2.2.1  # Ajustado para compatibilidade com numpy
+
+# --- Visualização ---
+matplotlib==3.8.3  # Versão mais recente compatível com Python 3.12
+seaborn==0.13.2
+
+# --- IA / ML ---
+torch==2.2.1
+scikit-learn==1.4.0
+xgboost==2.0.3
